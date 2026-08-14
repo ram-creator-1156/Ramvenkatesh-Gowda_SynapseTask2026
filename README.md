@@ -18,6 +18,8 @@ Machine Learning (ML)
 Natural Language Processing (NLP)
 Computer Vision (CV)
 Artificial Intelligence (AI)
+
+
 Bonus Task
 Neural Networking - Front Propogation
 Google Colab notebook (save a copy to Drive, run all cells): https://colab.research.google.com/drive/1JzSYSu-XDQNEE05LJCXOlRhWke9Ej-CL
